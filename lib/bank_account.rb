@@ -1,4 +1,4 @@
 class BankAccount
-def initialize (name)
-  @name = bankaccount_name
+def initialize (account_name)
+  @name = account_name
 end
